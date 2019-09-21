@@ -1,0 +1,50 @@
+{
+    "name" : "Andika Perdana Dirgantara Sutikno",
+    "age" : 24,
+    "address" : "Jl. Medayu Utara X/4 Surabaya",
+    "hobbies" : ["Game","Desain","Membaca","Belajar"],
+    "is_married" : false,
+    "list_school" : [
+      {
+        "name" : "smk negeri 10 surabaya",
+        "year_in" : "2010",
+        "year_out" : "2013",
+        "major" : "multimedia"
+      },
+      {
+        "name" : "smp negeri 10 surabaya",
+        "year_in" : "2007",
+        "year_out" : "2010",
+        "major" : null
+      },
+      {
+        "name" : "sd negeri 274 surabaya",
+        "year_in" : "2001",
+        "year_out" : "2007",
+        "major" : null
+      }
+    ],
+    "skills" : [
+      {
+        "skill_name" : "html",
+        "level" : "advanced"
+      },
+      {
+        "skill_name" : "css",
+        "level" : "beginner"
+      },
+      {
+        "skill_name" : "php",
+        "level" : "beginner"
+      },
+      {
+        "skill_name" : "framework laravel",
+        "level" : "beginner"
+      },
+      {
+        "skill_name" : "my_sql",
+        "level" : "beginner"
+      }
+    ],
+  "interest_in_coding" : true
+  }
