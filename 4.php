@@ -1,17 +1,4 @@
 <?php
-// function DeretFibonacci ($angka_awal,$angka_baru){
-//     for ($i=0; $i < 5; $i++) { 
-//         $output = $angka_awal + $angka_baru;
-//         //menampilkan bilangan
-//         echo $output.", ";
-//         //menyiapkan angka berikutnya
-//         $angka_awal=$angka_baru;
-//         $angka_baru=$output;        
-//     }
-// }
-
-// DeretFibonacci(0,1);
-
 //kolom itu kebawah, sedangkan baris itu ke samping
 function DeretFibonacci ($kolom,$baris){
     $angka_awal = 0;
@@ -38,5 +25,5 @@ function DeretFibonacci ($kolom,$baris){
 
 
 
-DeretFibonacci(10,5);
+DeretFibonacci(10,5);//ubah sesuai keinginan anda, angka 10 adalah kolom sedangkan 5 adalah baris
 ?>
