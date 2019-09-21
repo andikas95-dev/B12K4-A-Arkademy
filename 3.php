@@ -9,4 +9,4 @@ function HandShake($banyak)
     echo "Jumlah Jabat Tangan jika " . $banyak . " orang= " . $count;
 }
 
-HandShake(100);
+HandShake(100);//ubah angka 100 menjadi angka sesuai yang ingin anda cari
