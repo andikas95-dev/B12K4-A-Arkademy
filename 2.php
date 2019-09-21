@@ -9,7 +9,7 @@ function cekuser($username){
     
 }
 //eksekusi benar tidak nya user
-cekuser('@wakwaw');
+cekuser('@wakwaw');//Ganti @wakwaw sesuai keinginan anda
 echo "<br/>";
 
 //function cek password
@@ -22,5 +22,5 @@ function cekpass($password){
     
 }
 //eksekusi benar tidak nya password
-cekpass('C0d3YourFuture!#');
+cekpass('C0d3YourFuture!#');//Ganti @wakwaw sesuai keinginan anda
 ?>
