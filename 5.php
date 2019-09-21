@@ -18,4 +18,4 @@ function beliMie($tglbeli, $uang)
     echo "total mie yang anda punya adalah " . $total . " mie";
 }
 
-beliMie(25, 100000);
+beliMie(25, 100000);//ubah dengan angka sesuai keinginan anda parameter1 untuk tanggal sedangkan parameter ke 2 adalah uang yang dibelanjakan
