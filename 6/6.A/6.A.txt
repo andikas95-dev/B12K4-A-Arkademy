@@ -1,0 +1,1 @@
+SELECT `name`.`name`,`work`.`name`,`salary`.`salary` FROM `name`,`work`,`salary` WHERE `work`.`id`=`name`.`id_work` AND `salary`.`id`=`name`.`id_salary`;
